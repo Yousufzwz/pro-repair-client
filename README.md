@@ -2,9 +2,8 @@ This project was react with [Create React App](https://github.com/facebook/creat
 
 # Pro Repair full-stack project.
 
-
 ## Features
-Site is responsive, it has firebase authentication and a collection of e-mails in MongoDB from where it will differentiate whether the logged in user is a guest or an admin.
+Site is responsive, it has firebase authentication and a collection of e-mails in MongoDB from where it will differentiate whether the logged in user is a guest or an admin. Pro Repair Website is based on repair your damaged phones.
 
 ### Client 
 - An user can order service,.
@@ -13,22 +12,23 @@ Site is responsive, it has firebase authentication and a collection of e-mails i
 
 ### Admin
 - An admin can add services and make more admins.
-- Admin will be able to change the status of orders.
+- Admin can able to change the status of orders status.
 
 
 ### Usage Technologies
 - React.js
 - react-hook-form
-- react-elastic-carousal
+- React-Bootstrap
+- react-elastic-carousel
 - react-router-dom
-- Firebase auth
+- Firebase authentication
 - Firebase hosting
 - custom css
-- React-Bootstrap
+- react-stripe
 - Node.js
 - Express.js
 - MongoDB
 - Heroku deploy
 
-### [LIVE SITE]()
-### [Server Repository]()
+### [LIVE SITE](https://pro-repair-3e06d.web.app/)
+### [Server Repository](https://github.com/Porgramming-Hero-web-course/complete-website-server-Yusuf-Zw)
