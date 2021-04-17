@@ -6,8 +6,8 @@ This project was react with [Create React App](https://github.com/facebook/creat
  Pro Repair Website is based on repair your damaged phones. This website is responsive and it has user and admin features.
 
 ### User 
-- An user can order service,.
-- User can post reviews.
+- An user can order their services.
+- User can post and review inside website.
 - User will be able to see their work progress through the status.
 
 ### Admin
