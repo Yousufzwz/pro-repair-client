@@ -1,0 +1,15 @@
+.cardContent{
+    transition: all .4s ease-in-out;
+    transform: scale(1);
+}
+.cardContent:hover{
+    background : #e4ebdd;
+    box-shadow: 2px 3px 7px rgba(129, 127, 127, 0.281);
+    transform: scale(1.1);
+}
+.services{
+color:darkslategrey;
+}
+.services:hover{
+    text-decoration: none;
+}
