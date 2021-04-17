@@ -1,6 +1,6 @@
 This project was react with [Create React App](https://github.com/facebook/create-react-app).
 
-# Pro Repair full-stack project.
+# Pro Repair Full-Stack Project.
 
 ## Features
 Site is responsive, it has firebase authentication and a collection of e-mails in MongoDB from where it will differentiate whether the logged in user is a guest or an admin. Pro Repair Website is based on repair your damaged phones.
