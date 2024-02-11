@@ -31,4 +31,4 @@ This project was react with [Create React App](https://github.com/facebook/creat
 - Heroku deploy
 
 ### [LIVE SITE](https://pro-repair-3e06d.web.app/)
-### [Server Repository](https://github.com/Porgramming-Hero-web-course/complete-website-server-Yusuf-Zw)
+### [Server Repository](https://github.com/Yousufzwz/pro-repair-server)
